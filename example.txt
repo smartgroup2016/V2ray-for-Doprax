@@ -1,5 +1,5 @@
-https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/refs/heads/main/all_servers.txt
 https://raw.githubusercontent.com/justVisiting992/xray-Config-Collector/refs/heads/main/vless_iran.txt
 https://raw.githubusercontent.com/justVisiting992/xray-Config-Collector/refs/heads/main/vmess_iran.txt
 https://raw.githubusercontent.com/justVisiting992/xray-Config-Collector/refs/heads/main/trojan_iran.txt
 https://raw.githubusercontent.com/justVisiting992/xray-Config-Collector/main/ss_iran.txt
+https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/refs/heads/main/all_servers.txt
