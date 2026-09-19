@@ -1,3 +1,4 @@
+https://gitverse.ru/api/repos/MishaLan/MishaLan/raw/branch/master/MishaLan.txt
 https://raw.githubusercontent.com/justVisiting992/xray-Config-Collector/refs/heads/main/vless_iran.txt
 https://raw.githubusercontent.com/justVisiting992/xray-Config-Collector/refs/heads/main/vmess_iran.txt
 https://raw.githubusercontent.com/justVisiting992/xray-Config-Collector/refs/heads/main/trojan_iran.txt
