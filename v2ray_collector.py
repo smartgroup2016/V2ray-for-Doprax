@@ -39,6 +39,7 @@ CHANNELS = [
     "v2rayng_config",
     "V2ray_Free_Config",
     "proxy_v2ray_config",
+    "Farah_VPN",
 ]
 
 PROTOCOLS = ("vmess://", "vless://", "trojan://", "ss://", "ssr://")
