@@ -24,12 +24,10 @@ from bs4 import BeautifulSoup
 # Telegram channels to scrape (username without @).
 # These must have a PUBLIC web preview at https://t.me/s/<name>
 CHANNELS = [
-    "v2ray_configs_pool",
-    "free_v2ray_config",
-    "v2rayng_config",
-    "V2ray_Free_Config",
-    "proxy_v2ray_config",
-    "OutlineVPN",
+    "VPNBaz",
+"PrivateVPNs",
+"DirectVPN",
+"vpn_Click",
     "Farah_VPN",
 ]
 
