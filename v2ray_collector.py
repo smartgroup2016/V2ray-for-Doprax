@@ -30,6 +30,7 @@ CHANNELS = [
     "V2ray_Free_Config",
     "proxy_v2ray_config",
     "OutlineVPN",
+    "Farah_VPN",
 ]
 
 # Protocols we care about
