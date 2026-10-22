@@ -1,53 +1,8 @@
-{
-	"log": {
-		"access": "/dev/null",
-		"error": "/dev/null",
-		"loglevel": "warning"
-	},
-	"inbounds": [{
-			"port": 10000,
-			"listen": "127.0.0.1",
-			"protocol": "vmess",
-			"settings": {
-				"clients": [{
-					"id": "UUID",
-					"alterId": 0
-				}]
-			},
-			"streamSettings": {
-				"network": "ws",
-				"wsSettings": {
-					"path": "VMESS_WSPATH"
-				}
-			}
-		},
-		{
-			"port": 20000,
-			"listen": "127.0.0.1",
-			"protocol": "vless",
-			"settings": {
-				"clients": [{
-					"id": "UUID"
-				}],
-				"decryption": "none"
-			},
-			"streamSettings": {
-				"network": "ws",
-				"wsSettings": {
-					"path": "VLESS_WSPATH"
-				}
-			}
-		}
-	],
-	"outbounds": [{
-		"protocol": "freedom",
-		"settings": {}
-	}],
-	"dns": {
-		"server": [
-			"8.8.8.8",
-			"8.8.4.4",
-			"localhost"
-		]
-	}
-}
+https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity
+https://raw.githubusercontent.com/patterniha/Free-Configs/main/configs.txt
+https://github.com/igareck/vpn-configs-for-russia/blob/main/BLACK_SS%2BAll_RUS.txt
+https://github.com/Delta-Kronecker/V2ray-Config/blob/main/config/protocols/ss.txt
+https://github.com/Delta-Kronecker/V2ray-Config/blob/main/config/protocols/vless.txt
+https://raw.githubusercontent.com/DukeMehdi/FreeList-V2ray-Configs/refs/heads/main/Configs/All-DukeMehdi-Configs.txt
+https://github.com/barry-far/V2ray-Config/blob/main/Sub1.txt
+https://github.com/Epodonios/v2ray-configs/blob/main/Sub1.txt
