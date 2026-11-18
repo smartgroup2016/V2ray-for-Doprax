@@ -1,9 +1,5 @@
 [
   {
-    "link": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@16.60.10.6:443#@Vpn_Click",
-    "protocol": "ss"
-  },
-  {
     "link": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM@13.229.75.115:8443#",
     "protocol": "ss"
   },
@@ -20,19 +16,11 @@
     "protocol": "ss"
   },
   {
-    "link": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowM3k1Z2JueWw0bzFoYzJu@51.38.127.93:8080#@Vpn_Click",
-    "protocol": "ss"
-  },
-  {
     "link": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOWlycWswcGFha2N4MTl2@51.83.61.102:8080#",
     "protocol": "ss"
   },
   {
     "link": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4MTlweTBhOGlwZ2xxa2Jl@51.77.144.182:8080#@",
-    "protocol": "ss"
-  },
-  {
-    "link": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4MTlweTBhOGlwZ2xxa2Jl@51.77.144.182:8080#@Vpn_Click",
     "protocol": "ss"
   },
   {
@@ -260,10 +248,6 @@
     "protocol": "trojan"
   },
   {
-    "link": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.171:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.discoverfreshgraduatejobsstartyourprofessionaljourney.com#%F0%9F%87%BA%F0%9F%87%B8%40Vpn_Click",
-    "protocol": "trojan"
-  },
-  {
     "link": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?#",
     "protocol": "trojan"
   },
@@ -376,10 +360,6 @@
     "protocol": "vless"
   },
   {
-    "link": "vless://0dcefe19-a42a-4d57-96be-83dcbffd425f@200.96.106.2:9889?security=reality&encryption=none&pbk=GPwEGfRBoztNbcAvfX4ojY9FJ1vaMD3v21tnIrN2xyE&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tiktok2.transitbp2systems.com#@Vpn_Click",
-    "protocol": "vless"
-  },
-  {
     "link": "vless://0eed6293-8cf1-4e77-ac10-9c3d50d0b2f8@151.241.226.201:2053?type=tcp&security=reality&sni=www.apple.com&fp=firefox&pbk=bYW_MmB_CUHrsyoCAUKviI2LZdHf63yY2yOPXbih104&sid=9e419c0759b54d6f#",
     "protocol": "vless"
   },
@@ -465,10 +445,6 @@
   },
   {
     "link": "vless://3619ae0e-bd3a-458c-bb0a-c0479019d9ec@178.130.46.226:443?sni=serv1.fishtohome.ru&flow=xtls-rprx-vision&fp=firefox&security=tls#",
-    "protocol": "vless"
-  },
-  {
-    "link": "vless://372931d3-91c5-4564-b79c-041302de9a17@31.77.28.173:443?security=reality&encryption=none&pbk=9UG9zvrDpiPgY_J0dvB-n10ygEw3FzJ2qT8PFtITUBE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nl4.soshelper.space&sid=e06e30590f288e0f#@Vpn_Click",
     "protocol": "vless"
   },
   {
@@ -624,10 +600,6 @@
     "protocol": "vless"
   },
   {
-    "link": "vless://667016ca-f02e-4b5f-bfc3-3d8ed81e9bec@194.60.228.97:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=base.hosamobenl.co.uk#@Vpn_Click",
-    "protocol": "vless"
-  },
-  {
     "link": "vless://667016ca-f02e-4b5f-bfc3-3d8ed81e9bec@base.hosamobenl.co.uk:443?pcs=8f40a40d49c7e830e78111a9846f43f322ba049cee043259c108f28a66c16b2a&security=tls&alpn=http%2F1.1&encryption=none&headerType=none&type=tcp&allowInsecure=0&sni=base.hosamobenl.co.uk#",
     "protocol": "vless"
   },
@@ -673,10 +645,6 @@
   },
   {
     "link": "vless://80a06811-f74b-4b82-ac99-7e66c2a98e1c@185.253.7.22:443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=clover.filnex.baby&type=ws&headerType=none&host=clover.filnex.baby&path=%2Fapi%2Fde6%2Fstream#",
-    "protocol": "vless"
-  },
-  {
-    "link": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@5.253.86.3:443?security=reality&encryption=none&pbk=51ZCyVOxvcD_smARtd9mV-3Rh_WurOzMGRFxk9u2Kgo&headerType=none&fp=firefox&spx=%2Fb4fcc6d25bda84e&type=tcp&flow=xtls-rprx-vision&sni=nl3.gofizz.in&sid=fa1754221e4c5f9e#@Vpn_Click",
     "protocol": "vless"
   },
   {
@@ -736,10 +704,6 @@
     "protocol": "vless"
   },
   {
-    "link": "vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@203.57.82.106:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=firefox&type=tcp&sni=api-gw-net.galioncc.com&sid=9a3f6c21d8e047b5#@Vpn_Click",
-    "protocol": "vless"
-  },
-  {
     "link": "vless://a8b1d666-d3ba-4b17-90c4-ba7514c74f78@104.21.70.21:8080?encryption=none&security=none&sni=xstack.mahanfixe.workers.dev&type=ws&host=xstack.mahanfixe.workers.dev&path=%2Fxiron#",
     "protocol": "vless"
   },
@@ -773,10 +737,6 @@
   },
   {
     "link": "vless://baded307-189c-4ffc-a271-9acdab51a324@online.shop.ir.eeso.cc:39653?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=online.shop.ir.eeso.cc#",
-    "protocol": "vless"
-  },
-  {
-    "link": "vless://baded307-189c-4ffc-a271-9acdab51a324@online.shop.ir.eeso.cc:39653?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=online.shop.ir.eeso.cc#@Vpn_Click",
     "protocol": "vless"
   },
   {
@@ -876,11 +836,7 @@
     "protocol": "vless"
   },
   {
-    "link": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.135.255:22222?encryption=none&security=none&type=tcp#(S104",
-    "protocol": "vless"
-  },
-  {
-    "link": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.135.255:22223?encryption=none&security=none&type=tcp#OurChannel",
+    "link": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.173.133:22223?encryption=none&security=none&type=tcp#OurChannel",
     "protocol": "vless"
   },
   {
@@ -908,19 +864,11 @@
     "protocol": "vless"
   },
   {
-    "link": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.135.233.153:22222?encryption=none&security=none&type=tcp#(S101",
+    "link": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.60.253.34:22222?encryption=none&security=none&type=tcp#(S101",
     "protocol": "vless"
   },
   {
-    "link": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.135.233.153:22223?encryption=none&security=none&type=tcp#OurChannel",
-    "protocol": "vless"
-  },
-  {
-    "link": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.176.170.88:22222?encryption=none&security=none&type=tcp#(S102",
-    "protocol": "vless"
-  },
-  {
-    "link": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.176.170.88:22223?encryption=none&security=none&type=tcp#OurChannel",
+    "link": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.60.253.34:22223?encryption=none&security=none&type=tcp#OurChannel",
     "protocol": "vless"
   },
   {
@@ -929,14 +877,6 @@
   },
   {
     "link": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.2.152:22223?encryption=none&security=none&type=tcp#OurChannel",
-    "protocol": "vless"
-  },
-  {
-    "link": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.110.213:22222?encryption=none&security=none&type=tcp#(S103",
-    "protocol": "vless"
-  },
-  {
-    "link": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.110.213:22223?encryption=none&security=none&type=tcp#OurChannel",
     "protocol": "vless"
   },
   {
@@ -1017,10 +957,6 @@
   },
   {
     "link": "vless://facb802c-de2e-11f1-9a22-a3404e852f3b@185.39.204.117:10002?path=%2Fvpnjantit&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=tr2.vpnjantit.com#@",
-    "protocol": "vless"
-  },
-  {
-    "link": "vless://facb802c-de2e-11f1-9a22-a3404e852f3b@185.39.204.117:10002?path=%2Fvpnjantit&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=tr2.vpnjantit.com#@Vpn_Click",
     "protocol": "vless"
   },
   {
