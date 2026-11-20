@@ -156,6 +156,10 @@
     "protocol": "ss"
   },
   {
+    "link": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.160:443#%F0%9F%87%BA%F0%9F%87%B8%40Vpn_Click",
+    "protocol": "ss"
+  },
+  {
     "link": "ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#",
     "protocol": "ss"
   },
@@ -213,6 +217,10 @@
   },
   {
     "link": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@167.17.64.22:19999#",
+    "protocol": "ss"
+  },
+  {
+    "link": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.164.175.81:19999#%40vpnbaz%20%E2%AD%90",
     "protocol": "ss"
   },
   {
@@ -304,6 +312,14 @@
     "protocol": "trojan"
   },
   {
+    "link": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.245:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.discoverfreshgraduatejobsstartyourprofessionaljourney.com#%40vpnbaz%20%E2%98%82%EF%B8%8F",
+    "protocol": "trojan"
+  },
+  {
+    "link": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.53:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.explorecreativejobsandenhanceyourcareerportfolio.com#%40vpnbaz%20%F0%9F%9B%B8",
+    "protocol": "trojan"
+  },
+  {
     "link": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.iloverussia2026.com#@Vpn_Click",
     "protocol": "trojan"
   },
@@ -341,10 +357,6 @@
   },
   {
     "link": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.244:443?security=tls&insecure=0&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&allowInsecure=0&sni=api.discovergreatjobsandadvanceyourcareer.com#",
-    "protocol": "trojan"
-  },
-  {
-    "link": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.251:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.discovergreatjobsandadvanceyourcareer.com#%40vpnbaz%20%E2%98%82%EF%B8%8F",
     "protocol": "trojan"
   },
   {
@@ -472,11 +484,11 @@
     "protocol": "vless"
   },
   {
-    "link": "vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?mode=stream-one&path=%2Fkavir&security=tls&alpn=h2&encryption=none&insecure=0&host=dey.lnmarketplace.net&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#%40vpnbaz%20%F0%9F%8D%8B%E2%80%8D%F0%9F%9F%A9",
+    "link": "vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?mode=stream-one&path=%2Fkavir&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0#%40vpnbaz%20%F0%9F%8C%8A",
     "protocol": "vless"
   },
   {
-    "link": "vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?mode=stream-one&path=%2Fkavir&security=tls&encryption=none&insecure=0&host=dey.lnmarketplace.net&fp=firefox&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#%40vpnbaz%20%F0%9F%9B%B8",
+    "link": "vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?mode=stream-one&path=%2Fkavir&security=tls&alpn=h2&encryption=none&insecure=0&host=dey.lnmarketplace.net&fp=firefox&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#%40vpnbaz%20%F0%9F%8D%8B%E2%80%8D%F0%9F%9F%A9",
     "protocol": "vless"
   },
   {
@@ -669,10 +681,6 @@
   },
   {
     "link": "vless://682d30e4-3dfc-49f2-a017-9049119e3497@172.67.148.163:443?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=free.server7peekconfig.workers.dev&path=%2FeyJqdW5rIjoiRm5kaUkxZVFtRVJBIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19&security=tls&sni=free.server7peekconfig.workers.dev&type=ws#",
-    "protocol": "vless"
-  },
-  {
-    "link": "vless://6962c372-27da-56d6-9d1f-8041abb7538e@fr.abbaas.net:443?security=reality&encryption=none&pbk=wBh3jtk45kBonp2-uVqsx71F4ziNH7vZcU6DAC6t2xs&headerType=none&type=tcp&sni=w-x.co&sid=1296174a86a6ac8c#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig",
     "protocol": "vless"
   },
   {
@@ -920,6 +928,10 @@
     "protocol": "vless"
   },
   {
+    "link": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.89:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%F0%9F%87%BA%F0%9F%87%B8%40Vpn_Click",
+    "protocol": "vless"
+  },
+  {
     "link": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.95:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#",
     "protocol": "vless"
   },
@@ -936,14 +948,6 @@
     "protocol": "vless"
   },
   {
-    "link": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.194.136:22222?encryption=none&security=none&type=tcp#(S102",
-    "protocol": "vless"
-  },
-  {
-    "link": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.194.136:22223?encryption=none&security=none&type=tcp#OurChannel",
-    "protocol": "vless"
-  },
-  {
     "link": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.206.2:22222?encryption=none&security=none&type=tcp#(S104",
     "protocol": "vless"
   },
@@ -957,6 +961,14 @@
   },
   {
     "link": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.11.154:22223?encryption=none&security=none&type=tcp#OurChannel",
+    "protocol": "vless"
+  },
+  {
+    "link": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.41.107:22222?encryption=none&security=none&type=tcp#(S104",
+    "protocol": "vless"
+  },
+  {
+    "link": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.41.107:22223?encryption=none&security=none&type=tcp#OurChannel",
     "protocol": "vless"
   },
   {
@@ -980,14 +992,6 @@
     "protocol": "vless"
   },
   {
-    "link": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.189.136:22222?encryption=none&security=none&type=tcp#(S104",
-    "protocol": "vless"
-  },
-  {
-    "link": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.189.136:22223?encryption=none&security=none&type=tcp#OurChannel",
-    "protocol": "vless"
-  },
-  {
     "link": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.89.220:22222?encryption=none&security=none&type=tcp#(S103",
     "protocol": "vless"
   },
@@ -996,11 +1000,11 @@
     "protocol": "vless"
   },
   {
-    "link": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.60.253.34:22222?encryption=none&security=none&type=tcp#(S101",
+    "link": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.89.128:22222?encryption=none&security=none&type=tcp#(S103",
     "protocol": "vless"
   },
   {
-    "link": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.60.253.34:22223?encryption=none&security=none&type=tcp#OurChannel",
+    "link": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.89.128:22223?encryption=none&security=none&type=tcp#OurChannel",
     "protocol": "vless"
   },
   {
@@ -1052,14 +1056,6 @@
     "protocol": "vless"
   },
   {
-    "link": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.51.222:22222?encryption=none&security=none&type=tcp#(S103",
-    "protocol": "vless"
-  },
-  {
-    "link": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.51.222:22223?encryption=none&security=none&type=tcp#OurChannel",
-    "protocol": "vless"
-  },
-  {
     "link": "vless://e6b59d15-364c-4025-899a-84efa291d651@172.67.213.218:2096?security=tls&fp=chrome&sni=REd-suRf-2007.MatriSkA.wOrkeRs.DeV&type=ws&headerType=none&host=REd-suRf-2007.MatriSkA.wOrkeRs.DeV&path=%2FeyJqdW5rIjoiYWNoMkxHaUVYIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19#",
     "protocol": "vless"
   },
@@ -1073,10 +1069,6 @@
   },
   {
     "link": "vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@85.14.243.91:8443?mode=gun&security=reality&encryption=none&pbk=dPnrpjfG_vzjH20n0W7qNbWB5-dMxNSjeo2BpIsrXAE&fp=firefox&type=grpc&serviceName=workspace6c036b2914c6&sni=edge-7577e858223c.eu-cdn539.com&sid=bca958b54462eba5#@Vpn_Click",
-    "protocol": "vless"
-  },
-  {
-    "link": "vless://e99ba96d-dec8-42eb-be53-19e71eef7cab@5.253.42.164:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#%40vpnbaz%20%F0%9F%8D%AD",
     "protocol": "vless"
   },
   {
